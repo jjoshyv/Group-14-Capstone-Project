@@ -1,0 +1,13 @@
+{
+  "run_id": "4ebf6db4b0879cfd",
+  "dataset": "Cleaned_EPA_O3_Monthly",
+  "source_file": "Cleaned_EPA_O3_Monthly.csv",
+  "rows_written": 120,
+  "partition_cols": [
+    "year",
+    "month"
+  ],
+  "location_col": null,
+  "out_root": "C:\\Users\\HP\\Desktop\\Capstone Project\\data_lake",
+  "timestamp": "2025-11-09T14:14:33.539285Z"
+}

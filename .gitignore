@@ -1,0 +1,13 @@
+# Data science
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/raw/
+data_lake/feature_sets/*.parquet
+models/*.pkl
+*.log
+.DS_Store
+
+# Large files
+*.csv
+*.parquet

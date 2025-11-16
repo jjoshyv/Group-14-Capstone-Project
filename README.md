@@ -11,7 +11,7 @@ This repository contains the full pipeline for analyzing and forecasting ozone (
 
 ---
 
-## Repository Structure (recommended)
+## Repository Structure 
 
 ```
 Capstone-Project-Ecosphere-Institute/

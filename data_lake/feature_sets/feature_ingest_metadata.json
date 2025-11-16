@@ -1,0 +1,14 @@
+{
+  "input": "C:\\Users\\HP\\Desktop\\Capstone Project\\Cleaned_EPA_O3_Monthly.csv",
+  "rows_input": 120,
+  "rows_features": 120,
+  "value_col": "O3_ug_m3",
+  "date_col": "Date",
+  "location_col": "location_inferred",
+  "partition_cols": [
+    "year",
+    "month",
+    "location_inferred"
+  ],
+  "rolling_window_months": 60
+}
